@@ -1,1 +1,2 @@
-print(10 + 10)
+soma = 10 + 10
+print(soma)
