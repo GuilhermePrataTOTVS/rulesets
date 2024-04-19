@@ -1,2 +1,2 @@
-soma = 10 + 10
+soma = 10 + 20
 print(soma)
